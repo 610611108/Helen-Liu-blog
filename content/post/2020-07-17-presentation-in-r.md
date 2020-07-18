@@ -15,79 +15,94 @@ tags: [ioslides presentation、R]
 ![image](https://github.com/610611108/Helen-Liu-blog/blob/master/presentation%20in%20r/03.jpg?raw=true)
 基本上，這已是一個完整的ppt了! ## 就是一張投影片，如果想要花俏一點就繼續看下去!
 
-**在css檔中更改html code**
-1. **換封面圖片:**
-
-body {\
-&emsp;     background-image: url(圖片網址)或同資料夾裡的圖片名加副檔名; \
-&emsp;     background-position: center center; \
-&emsp;     background-attachment: fixed; \
-&emsp;     background-repeat: no-repeat; \
-&emsp;     background-size: 100% 100%; \
+🦄**在css檔中更改html code**
+1. **換封面背景:**
+```r
+body {
+ background-image: url(圖片網址)或同資料夾裡的圖片名加副檔名; 
+ # background-image: url(https://image.freepik.com/free-vector/abstract-colorful-flow-shapes-background_23-2148258092.jpg);
+ background-position: center center; 
+ background-attachment: fixed; 
+ background-repeat: no-repeat; 
+ background-size: 100% 100%; 
 } 
 
-.title-slide {\
-&emsp;    background-image: url(圖片網址)或同資料夾裡的圖片名加副檔名; \
-&emsp;    background-position: center center; \
-&emsp;    background-attachment: fixed; \
-&emsp;    background-repeat: no-repeat; \
-&emsp;    background-size: 100% 100%; \
+.title-slide {
+ background-image: url(圖片網址)或同資料夾裡的圖片名加副檔名; 
+ background-position: center center; 
+ background-attachment: fixed; 
+ background-repeat: no-repeat; 
+ background-size: 100% 100%; 
 }
 
-.section .reveal .state-background {\
-&emsp;    background-image: url(圖片網址)或同資料夾裡的圖片名加副檔名; \
-&emsp;    background-position: center center; \
-&emsp;    background-attachment: fixed; \
-&emsp;    background-repeat: no-repeat; \
-&emsp;    background-size: 100% 100%; \
+.section .reveal .state-background {
+ background-image: url(圖片網址)或同資料夾裡的圖片名加副檔名; 
+ background-position: center center; 
+ background-attachment: fixed; 
+ background-repeat: no-repeat; 
+ background-size: 100% 100%; 
 }     
-
+```
 2. **換封面主標題字型大小顏色**
 
-title部分(p.s.可以自己再多加subtitle:)\
-slides > slide.title-slide p { \
-&emsp;  color: white; \
+title部分
+```r
+slides > slide.title-slide p { 
+ color: white; 
 }
 
-slides > slide.title-slide hgroup h1 { \
-&emsp;  color: white; \
-&emsp;  font-size: 60px; \
-&emsp;  letter-spacing: 10; \
+slides > slide.title-slide hgroup h1 { 
+ color: white; 
+ font-size: 60px; 
+ letter-spacing: 10; 
 }
-
-author以下部分\
-slides > slide.title-slide hgroup h2 { \
-&emsp;  color: white; \
-&emsp;  font-size: 40px; \
-&emsp;  letter-spacing: 10; \
+```
+author以下部分
+```r
+slides > slide.title-slide hgroup h2 { 
+ color: white; 
+ font-size: 40px; 
+ letter-spacing: 10; 
 }
-
-3. **更改所有投影片字形，可以到電腦中的"系統內容"，搜尋"字形"的名稱。**\
-slides > slide {\
-&emsp;  font-family: "Microsoft JhengHei", Times, serif;\
+```
+3. **更改所有投影片字形，可以到電腦中的"系統內容"，搜尋"字形"的名稱。**
+```r
+slides > slide {
+font-family: "Microsoft JhengHei", Times, serif;
 }
-
-4. **投影片內頁標題字形大小和顏色**\
-h1,h2,h3, h4, h5, h6, h7, h8 { \
-&emsp;    color: #444444; \
-&emsp;    font-size: 60px; \
+```
+4. **投影片內頁標題字形大小和顏色**
+```r
+h1,h2,h3, h4, h5, h6, h7, h8 {
+color: #444444;
+font-size: 60px; 
 }
-
+```
 5. **投影片內容字形顏色**\
-p在網頁編碼中是文章段落的意思，而li通常是列表。所以當投影片中直接列1.2.3...時，他會自動視為列表，字的顏色就會是#444444了!若1.2.3....前還加了段文字，會視為文章，字的顏色就會是#000000。
-
-body p { \
-&emsp;  color: #000000; \
+\<p>在網頁編碼中是文章段落的意思，而\<li>通常是列表。所以當投影片中直接列1.2.3...時，他會自動視為列表，字的顏色就會是#444444了!若1.2.3....前還加了段文字，會視為文章，字的顏色就會是#000000。
+```r
+body p { 
+color: #000000; 
 }
 
-li { \
-&emsp;  color:#444444; \
+li {
+color: #444444; 
 }
-
-
+```
 6. css檔裡所有的編碼都要寫在<style>和</style>之中。 
 
-**在rmd檔中編寫**
+🦄**在rmd檔中編寫**\
+p.s.可以自己再多加subtitle:\
+```r
+---
+title: "Food Map : <br> Flavor and Ingredients Visualization "
+subtitle: "..."
+author: "..."
+date: "..."
+output: ioslides_presentation
+css: ptt backgroud .css 
+---
+```
 
 1. **投影片背景**
 ```r
@@ -96,9 +111,9 @@ data-background="url"       #網址"或圖片名加副檔名
 data-background-size=cover  #背景覆蓋全頁
          }
 ```
-2. **投影片內容分兩欄 **
-![image](https://github.com/610611108/Helen-Liu-blog/blob/master/presentation%20in%20r/01.jpg?raw=true)
-內容不夠長，可導致有些內容消失在頁面中可用\<br>代替。\<br>是強迫換行的意思。
+2. **投影片內容分兩欄**
+![image](https://github.com/610611108/Helen-Liu-blog/blob/master/presentation%20in%20r/04.jpg?raw=true)
+內容不夠長時，可導致有些內容消失在頁面中可用\<br>代替。\<br>是強迫換行的意思。
 ```r
 <div class="columns-2">
 ...
@@ -106,7 +121,7 @@ data-background-size=cover  #背景覆蓋全頁
 ...
 </div>
 ```
-3. **改變某行字形大小與顏色**\
+3. **改變某行字形大小與顏色**
 ```r
 <font color="#8C0044" font size="7">你寫的內容。</font> 
 ```
