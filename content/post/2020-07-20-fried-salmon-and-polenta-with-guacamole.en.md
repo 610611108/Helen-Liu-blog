@@ -1,6 +1,6 @@
 ---
 title: 'Fried Salmon and Polenta with Guacamole '
-author: ''
+author: 'Helen Liu'
 date: '2020-07-20'
 slug: fried-salmon-and-polenta-with-guacamole
 categories: [Master's Thesis]
