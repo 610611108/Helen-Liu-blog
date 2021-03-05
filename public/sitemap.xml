@@ -4,7 +4,47 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-07-02T23:39:05+08:00</lastmod>
+    <lastmod>2020-07-20T18:18:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/fried-salmon-and-polenta-with-guacamole/</loc>
+    <lastmod>2020-07-20T18:18:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/masters-thesis/</loc>
+    <lastmod>2020-07-20T18:18:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/masters-thesisrecipes/</loc>
+    <lastmod>2020-07-20T18:18:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-07-20T18:18:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-20T18:18:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ioslides-presentationr/</loc>
+    <lastmod>2020-07-18T14:10:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/presentation-in-r/</loc>
+    <lastmod>2020-07-18T14:10:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2020-07-18T14:10:46+08:00</lastmod>
   </url>
   
   <url>
@@ -13,28 +53,8 @@
   </url>
   
   <url>
-    <loc>/categories/masters-thesis/</loc>
-    <lastmod>2020-07-02T23:39:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/masters-thesisrecipes/</loc>
-    <lastmod>2020-07-02T23:39:05+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/tomato-bolognese/</loc>
     <lastmod>2020-07-02T23:30:45+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-07-02T23:39:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-07-02T23:39:05+08:00</lastmod>
   </url>
   
   <url>
@@ -74,7 +94,7 @@
   
   <url>
     <loc>/post/hash/</loc>
-    <lastmod>2020-06-04T17:07:42+08:00</lastmod>
+    <lastmod>2020-07-20T18:11:32+08:00</lastmod>
   </url>
   
   <url>
@@ -95,11 +115,6 @@
   <url>
     <loc>/post/master-s-thesis/</loc>
     <lastmod>2020-05-28T12:24:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2020-04-30T02:30:12+08:00</lastmod>
   </url>
   
   <url>
@@ -135,6 +150,11 @@
   <url>
     <loc>/tags/rweb-crawler/</loc>
     <lastmod>2020-04-28T16:17:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/sml-final-project/</loc>
+    <lastmod>2020-07-14T17:38:13+08:00</lastmod>
   </url>
   
   <url>
