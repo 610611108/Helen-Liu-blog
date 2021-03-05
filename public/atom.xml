@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Enjoy Life with Helen</title>
     <subtitle type="html">This blog is discussions about combining my habits with statistics analysis.</subtitle>
-    <updated>2020-07-20T18:18:27+08:00</updated>
+    <updated>2021-03-05T16:01:16+08:00</updated>
     <id>/</id>
     <link rel="alternate" type="text/html" href="/" />
     <link rel="self" type="application/atom+xml" href="/atom.xml" />
@@ -16,6 +16,156 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.69.0">Hugo</generator>
+        <entry>
+            <title type="text">START with Python</title>
+            <link rel="alternate" type="text/html" href="/post/start-with-python/" />
+            <id>/post/start-with-python/</id>
+            <updated>2021-02-20T14:51:43+08:00</updated>
+            <published>2021-02-20T00:00:00+00:00</published>
+            <author>
+                    <name>YA HAN LIU</name>
+                    <uri>/</uri>
+                    <email>610611108@gms.ndhu.edu.tw</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[起初會想學Python是因為了參加kaggle舉辦的一個比賽，其中大多參賽者都是使用Python。次外當我把data下載後，想以R打開train.csv，系統卻跳出音資料量太大而無法讀取。無奈之下開始了Python學習之路，雖說用了Python才發現依樣問題也是存在，需另闢新徑解決問題，哈哈。]]></summary>
+            
+                <content type="html"><![CDATA[<p>起初會想學Python是因為了參加kaggle舉辦的一個比賽，其中大多參賽者都是使用Python。次外當我把data下載後，想以R打開train.csv，系統卻跳出音資料量太大而無法讀取。無奈之下開始了Python學習之路，雖說用了Python才發現依樣問題也是存在，需另闢新徑解決問題，哈哈。</p>
+<p>網上很多教學，所以簡短總結開始學習要搜索的路程。</p>
+<ul>
+<li>
+<p>安裝
+裝python或Anaconda都可以。看自己喜歡哪個，我是選了Anaconda。</p>
+</li>
+<li>
+<p>開始寫程式
+與R相似，R第一次使用package要安裝和每次使用前要library，而python有自帶一些常用package，若有額外需求再自己安裝，每次使用前需要先import。</p>
+</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="kn">import</span> <span class="nn">numpy</span> <span class="kn">as</span> <span class="nn">np</span>
+<span class="c1"># numpy 是你想要使用的package, np是自己取的名字方便日後使用不用寫一長串。</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>其餘基本的寫法網上都能找到參考寫法，寫過R的人應該會很快上手。
+<a href="http://tw.gitbook.net/python/python_basic_operators.html">詳見其他人的blogger說明</a></p>
+<ul>
+<li>Kaggle
+1.Kaggle裡有個notebook的功能，可在裡面直接挑選寫r或python&hellip;。若參加比賽，直接在比賽那頁開個notebook，寫個一行字就能直接導入data。</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="kn">import</span> <span class="nn">xxx</span>
+<span class="n">env</span> <span class="o">=</span> <span class="n">xxx</span><span class="o">.</span><span class="n">make_env</span><span class="p">()</span> <span class="c1"># initialize the environment xxx，xxx是比賽給的資料庫名稱。</span>
+</code></pre></td></tr></table>
+</div>
+</div><ol start="2">
+<li>
+<p>免費雲端Jupyter Notebook
+免費的線上gpu運算功能，雖有限制，但夠了。
+<a href="https://zhuanlan.zhihu.com/p/166151381">詳見其他人的blogger說明5.</a></p>
+</li>
+<li>
+<p>寫完code上傳kaggle
+kaggle的比賽會有個deadline要注意!而且sub結果一天限制5次，第一次參加比賽最後一天才上傳結果一直失敗。查找許多文章(有史以來看最多英文帖子的一次= =)，改了許多程式碼，後來發現是最後的結果表格不能用submission = &hellip;，要改成例如sample_sub = &hellip;。</p>
+</li>
+</ol>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="/categories/python/" term="Python" label="Python" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="/tags/python/" term="Python" label="Python" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="/tags/anaconda/" term="Anaconda" label="Anaconda" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="/tags/kaggle/" term="Kaggle" label="Kaggle" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">機器學習與圖像分析 in Python</title>
+            <link rel="alternate" type="text/html" href="/post/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E8%88%87%E5%9C%96%E5%83%8F%E5%88%86%E6%9E%90-in-python/" />
+            <id>/post/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E8%88%87%E5%9C%96%E5%83%8F%E5%88%86%E6%9E%90-in-python/</id>
+            <updated>2021-03-05T16:01:07+08:00</updated>
+            <published>2021-02-20T00:00:00+00:00</published>
+            <author>
+                    <name>YA HAN LIU</name>
+                    <uri>/</uri>
+                    <email>610611108@gms.ndhu.edu.tw</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[kaggle裡大多比賽都會牽扯到圖像或時間序列。]]></summary>
+            
+                <content type="html"><![CDATA[<p>kaggle裡大多比賽都會牽扯到圖像或時間序列。</p>
+<p>趁有機會參加圖像分析比賽，紀錄一下是如何將圖像轉為資料做模型分析的。</p>
+<p>待續&hellip;</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="/categories/python/" term="Python" label="Python" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="/tags/python/" term="Python" label="Python" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Fried Salmon and Polenta with Guacamole </title>
             <link rel="alternate" type="text/html" href="/post/fried-salmon-and-polenta-with-guacamole/" />
