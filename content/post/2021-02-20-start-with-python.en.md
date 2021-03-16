@@ -7,7 +7,7 @@ categories: [Python]
 tags: [Python,Anaconda,Kaggle]
 ---
 
-起初會想學Python是因為了參加kaggle舉辦的一個比賽，其中大多參賽者都是使用Python。次外當我把data下載後，想以R打開train.csv，系統卻跳出音資料量太大而無法讀取。無奈之下開始了Python學習之路，雖說用了Python才發現依樣問題也是存在，需另闢新徑解決問題，哈哈。
+起初會想學Python是因為了參加kaggle舉辦的一個比賽，其中大多參賽者都是使用Python。當我把data下載後，想以R打開train.csv，系統卻跳出資料量太大而無法讀取的通知。無奈之下開始了Python學習之路，雖說用了Python才發現一樣問題也是存在，需另闢新徑解決問題，哈哈。
 
 網上很多教學，所以簡短總結開始學習要搜索的路程。
 
