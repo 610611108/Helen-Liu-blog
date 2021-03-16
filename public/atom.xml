@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Enjoy Life with Helen</title>
     <subtitle type="html">This blog is discussions about combining my habits with statistics analysis.</subtitle>
-    <updated>2021-03-05T16:01:16+08:00</updated>
+    <updated>2021-03-16T21:47:10+08:00</updated>
     <id>/</id>
     <link rel="alternate" type="text/html" href="/" />
     <link rel="self" type="application/atom+xml" href="/atom.xml" />
@@ -20,16 +20,16 @@
             <title type="text">START with Python</title>
             <link rel="alternate" type="text/html" href="/post/start-with-python/" />
             <id>/post/start-with-python/</id>
-            <updated>2021-02-20T14:51:43+08:00</updated>
+            <updated>2021-03-16T21:47:03+08:00</updated>
             <published>2021-02-20T00:00:00+00:00</published>
             <author>
                     <name>YA HAN LIU</name>
                     <uri>/</uri>
                     <email>610611108@gms.ndhu.edu.tw</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[起初會想學Python是因為了參加kaggle舉辦的一個比賽，其中大多參賽者都是使用Python。次外當我把data下載後，想以R打開train.csv，系統卻跳出音資料量太大而無法讀取。無奈之下開始了Python學習之路，雖說用了Python才發現依樣問題也是存在，需另闢新徑解決問題，哈哈。]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[起初會想學Python是因為了參加kaggle舉辦的一個比賽，其中大多參賽者都是使用Python。當我把data下載後，想以R打開train.csv，系統卻跳出資料量太大而無法讀取的通知。無奈之下開始了Python學習之路，雖說用了Python才發現一樣問題也是存在，需另闢新徑解決問題，哈哈。]]></summary>
             
-                <content type="html"><![CDATA[<p>起初會想學Python是因為了參加kaggle舉辦的一個比賽，其中大多參賽者都是使用Python。次外當我把data下載後，想以R打開train.csv，系統卻跳出音資料量太大而無法讀取。無奈之下開始了Python學習之路，雖說用了Python才發現依樣問題也是存在，需另闢新徑解決問題，哈哈。</p>
+                <content type="html"><![CDATA[<p>起初會想學Python是因為了參加kaggle舉辦的一個比賽，其中大多參賽者都是使用Python。當我把data下載後，想以R打開train.csv，系統卻跳出資料量太大而無法讀取的通知。無奈之下開始了Python學習之路，雖說用了Python才發現一樣問題也是存在，需另闢新徑解決問題，哈哈。</p>
 <p>網上很多教學，所以簡短總結開始學習要搜索的路程。</p>
 <ul>
 <li>
