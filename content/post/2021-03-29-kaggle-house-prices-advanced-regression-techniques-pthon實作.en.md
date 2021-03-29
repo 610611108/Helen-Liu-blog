@@ -8,4 +8,4 @@ tags: [pthon]
 ---
 未完成,隨時更新中.
 
-<iframe src="https://www.kaggle.com/blueleebad/house-prices-advanced-regression-techniques/edit/run/58038327" width="800" height="1000"></iframe>
+<iframe src="https://enjoy-life-with-helen.netlify.app/house-prices-advanced-regression.html" width="800" height="1000"></iframe>
