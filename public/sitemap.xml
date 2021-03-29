@@ -3,22 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-03-29T22:00:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/kaggle-house-prices-advanced-regression-techniques-pthon%E5%AF%A6%E4%BD%9C/</loc>
+    <lastmod>2021-03-29T22:00:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/kaggle-king-county-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%A0%B1%E5%91%8A/</loc>
+    <lastmod>2021-03-29T21:55:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-03-29T22:00:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pthon/</loc>
+    <lastmod>2021-03-29T22:00:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/pthon/</loc>
+    <lastmod>2021-03-29T22:00:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2021-03-29T21:55:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2021-03-29T21:55:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-03-29T22:00:50+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/anaconda/</loc>
     <lastmod>2021-03-16T21:47:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2021-03-16T21:47:03+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/kaggle/</loc>
-    <lastmod>2021-03-16T21:47:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2021-03-16T21:47:03+08:00</lastmod>
   </url>
   
@@ -34,11 +69,6 @@
   
   <url>
     <loc>/post/start-with-python/</loc>
-    <lastmod>2021-03-16T21:47:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-03-16T21:47:03+08:00</lastmod>
   </url>
   
@@ -69,11 +99,6 @@
   
   <url>
     <loc>/post/presentation-in-r/</loc>
-    <lastmod>2020-07-18T14:10:46+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
     <lastmod>2020-07-18T14:10:46+08:00</lastmod>
   </url>
   

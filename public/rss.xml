@@ -23,10 +23,93 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 16 Mar 2021 21:47:10 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 22:00:53 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="/rss.xml" />
         
+        
+            <item>
+                <title>kaggle,house-prices-advanced-regression-techniques, Pthon實作</title>
+                <link>/post/kaggle-house-prices-advanced-regression-techniques-pthon%E5%AF%A6%E4%BD%9C/</link>
+                <guid isPermaLink="true">/post/kaggle-house-prices-advanced-regression-techniques-pthon%E5%AF%A6%E4%BD%9C/</guid>
+                <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+                
+                    <author>610611108@gms.ndhu.edu.tw (YA HAN LIU)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description><![CDATA[<p>未完成,隨時更新中.</p>
+<iframe src="https://www.kaggle.com/blueleebad/house-prices-advanced-regression-techniques/edit/run/58038327" width="800" height="1000"></iframe>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="/categories/pthon/">pthon</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="/tags/pthon/">pthon</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>kaggle,king county 機器學習報告</title>
+                <link>/post/kaggle-king-county-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%A0%B1%E5%91%8A/</link>
+                <guid isPermaLink="true">/post/kaggle-king-county-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%A0%B1%E5%91%8A/</guid>
+                <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+                
+                    <author>610611108@gms.ndhu.edu.tw (YA HAN LIU)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description><![CDATA[<iframe src="https://enjoy-life-with-helen.netlify.app/SML_final_project.html" width="800" height="1000"></iframe>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="/categories/r/">R</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="/tags/r/">R</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>START with Python</title>
