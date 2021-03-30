@@ -10,6 +10,6 @@ tags: [pthon]
 
 
 
-今天做了隨機森林的調參,調完居然比預設的低分...需要再研究一下!!
+隨機森林的調參終於進步了...不知是否能在更好,有空要再研究一下!!
 
-https://www.kaggle.com/blueleebad/house-prices-advanced-regression-techniques?scriptVersionId=58213673
+https://www.kaggle.com/blueleebad/house-prices-advanced-regression-techniques/edit/run/58138731
