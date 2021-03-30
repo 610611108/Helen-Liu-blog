@@ -12,4 +12,4 @@ tags: [pthon]
 
 隨機森林的調參終於進步了...不知是否能在更好,有空要再研究一下!!
 
-https://www.kaggle.com/blueleebad/house-prices-advanced-regression-techniques/edit/run/58138731
+https://www.kaggle.com/blueleebad/house-prices-advanced-regression-techniques?scriptVersionId=58280894
