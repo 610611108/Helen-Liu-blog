@@ -23,10 +23,64 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 29 Mar 2021 22:00:53 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 06 May 2021 18:20:45 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="/rss.xml" />
         
+        
+            <item>
+                <title>Power bi 安裝與實作</title>
+                <link>/post/power-bi-%E5%AE%89%E8%A3%9D%E8%88%87%E5%AF%A6%E4%BD%9C/</link>
+                <guid isPermaLink="true">/post/power-bi-%E5%AE%89%E8%A3%9D%E8%88%87%E5%AF%A6%E4%BD%9C/</guid>
+                <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+                
+                    <author>610611108@gms.ndhu.edu.tw (YA HAN LIU)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description><![CDATA[<p>Power bi近期滿受歡迎的數據資料視覺化工具,使用起來非常容易上手,且視覺效果靈動活潑.</p>
+<p>要說缺點的話可能是當資料量超級大開起來有點當當的.</p>
+<p>不過這是老話,用過EXCEL開過GB以上的都知道可能連開都開不起來.</p>
+<p><a href="https://www.youtube.com/watch?v=9RcQUhlIb_Y&amp;ab_channel=PAPAYA%E9%9B%BB%E8%85%A6%E6%95%99%E5%AE%A4">網上的教學影片,PAPAYA裡有教滿多有用的軟體的影片,超受用又易懂!~~~~鏈結</a></p>
+<p><strong>sTEP1. 安裝</strong></p>
+<p><a href="https://powerbi.microsoft.com/zh-tw/downloads/">Microsoft Powerbi 載點</a></p>
+<p>照著步驟,選擇好語言就能下載了!</p>
+<p>Windows市集好像也能下載,但我按了好幾次都沒反應不知為何,= =!</p>
+<p><img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI01.png?raw=true" alt="image">
+<strong>sTEP2. 載入資料</strong></p>
+<p>Powerbi支援滿多格式,我大多都是用.csv檔或.xlsx檔.
+<img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI02.png?raw=true" alt="image"></p>
+<p>選好資料後可以直接載入或用轉換資料在excel做其他資料整理.
+<img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI03.png?raw=true" alt="image"></p>
+<p>事先把資料用Excel整理好會比較方便,例如把該刪的刪了!把能分開的資料分成多個資料表,到時候要做計算時可用關聯式RELATED語法就行了!也順便檢查第一行標題有沒有跑掉.
+<img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI04.png?raw=true" alt="image">
+<strong>sTEP2. 視覺化</strong></p>
+<p>選擇要的圖形,把資料中要分析的變數先勾起來,再直接拉到軸和值的框框內就ok了!</p>
+<p>看看要不要美化,反正有中文多試幾次很快就能上手了!
+<img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI05.png?raw=true" alt="image">
+<img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI06.png?raw=true" alt="image"></p>
+<p><strong>Papaya教室講得超清楚的,實際操做一次,困難度不高!</strong></p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="/categories/statistic-software/">statistic software</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>kaggle,house-prices-advanced-regression-techniques, Pthon實作</title>
@@ -38,8 +92,9 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
-                    <description><![CDATA[<p>未完成,隨時更新中.</p>
-<iframe src="https://www.kaggle.com/blueleebad/house-prices-advanced-regression-techniques/edit/run/58038327" width="800" height="1000"></iframe>
+                    <description><![CDATA[<p>未完成,隨時更新中&hellip;</p>
+<p>隨機森林的調參終於進步了&hellip;不知是否能在更好,有空要再研究一下!!</p>
+<p><a href="https://www.kaggle.com/blueleebad/house-prices-advanced-regression-techniques?scriptVersionId=58280894">https://www.kaggle.com/blueleebad/house-prices-advanced-regression-techniques?scriptVersionId=58280894</a></p>
 ]]></description>
                 
                 

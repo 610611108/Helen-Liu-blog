@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Enjoy Life with Helen</title>
     <subtitle type="html">This blog is discussions about combining my habits with statistics analysis.</subtitle>
-    <updated>2021-03-29T22:00:53+08:00</updated>
+    <updated>2021-05-06T18:20:45+08:00</updated>
     <id>/</id>
     <link rel="alternate" type="text/html" href="/" />
     <link rel="self" type="application/atom+xml" href="/atom.xml" />
@@ -17,20 +17,78 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.69.0">Hugo</generator>
         <entry>
+            <title type="text">Power bi 安裝與實作</title>
+            <link rel="alternate" type="text/html" href="/post/power-bi-%E5%AE%89%E8%A3%9D%E8%88%87%E5%AF%A6%E4%BD%9C/" />
+            <id>/post/power-bi-%E5%AE%89%E8%A3%9D%E8%88%87%E5%AF%A6%E4%BD%9C/</id>
+            <updated>2021-05-06T18:20:33+08:00</updated>
+            <published>2021-05-06T00:00:00+00:00</published>
+            <author>
+                    <name>YA HAN LIU</name>
+                    <uri>/</uri>
+                    <email>610611108@gms.ndhu.edu.tw</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Power bi近期滿受歡迎的數據資料視覺化工具,使用起來非常容易上手,且視覺效果靈動活潑.]]></summary>
+            
+                <content type="html"><![CDATA[<p>Power bi近期滿受歡迎的數據資料視覺化工具,使用起來非常容易上手,且視覺效果靈動活潑.</p>
+<p>要說缺點的話可能是當資料量超級大開起來有點當當的.</p>
+<p>不過這是老話,用過EXCEL開過GB以上的都知道可能連開都開不起來.</p>
+<p><a href="https://www.youtube.com/watch?v=9RcQUhlIb_Y&amp;ab_channel=PAPAYA%E9%9B%BB%E8%85%A6%E6%95%99%E5%AE%A4">網上的教學影片,PAPAYA裡有教滿多有用的軟體的影片,超受用又易懂!~~~~鏈結</a></p>
+<p><strong>sTEP1. 安裝</strong></p>
+<p><a href="https://powerbi.microsoft.com/zh-tw/downloads/">Microsoft Powerbi 載點</a></p>
+<p>照著步驟,選擇好語言就能下載了!</p>
+<p>Windows市集好像也能下載,但我按了好幾次都沒反應不知為何,= =!</p>
+<p><img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI01.png?raw=true" alt="image">
+<strong>sTEP2. 載入資料</strong></p>
+<p>Powerbi支援滿多格式,我大多都是用.csv檔或.xlsx檔.
+<img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI02.png?raw=true" alt="image"></p>
+<p>選好資料後可以直接載入或用轉換資料在excel做其他資料整理.
+<img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI03.png?raw=true" alt="image"></p>
+<p>事先把資料用Excel整理好會比較方便,例如把該刪的刪了!把能分開的資料分成多個資料表,到時候要做計算時可用關聯式RELATED語法就行了!也順便檢查第一行標題有沒有跑掉.
+<img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI04.png?raw=true" alt="image">
+<strong>sTEP2. 視覺化</strong></p>
+<p>選擇要的圖形,把資料中要分析的變數先勾起來,再直接拉到軸和值的框框內就ok了!</p>
+<p>看看要不要美化,反正有中文多試幾次很快就能上手了!
+<img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI05.png?raw=true" alt="image">
+<img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI06.png?raw=true" alt="image"></p>
+<p><strong>Papaya教室講得超清楚的,實際操做一次,困難度不高!</strong></p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="/categories/statistic-software/" term="statistic software" label="statistic software" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">kaggle,house-prices-advanced-regression-techniques, Pthon實作</title>
             <link rel="alternate" type="text/html" href="/post/kaggle-house-prices-advanced-regression-techniques-pthon%E5%AF%A6%E4%BD%9C/" />
             <id>/post/kaggle-house-prices-advanced-regression-techniques-pthon%E5%AF%A6%E4%BD%9C/</id>
-            <updated>2021-03-29T22:00:50+08:00</updated>
+            <updated>2021-03-31T03:56:59+08:00</updated>
             <published>2021-03-29T00:00:00+00:00</published>
             <author>
                     <name>YA HAN LIU</name>
                     <uri>/</uri>
                     <email>610611108@gms.ndhu.edu.tw</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[未完成,隨時更新中.]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[未完成,隨時更新中&hellip;]]></summary>
             
-                <content type="html"><![CDATA[<p>未完成,隨時更新中.</p>
-<iframe src="https://www.kaggle.com/blueleebad/house-prices-advanced-regression-techniques/edit/run/58038327" width="800" height="1000"></iframe>
+                <content type="html"><![CDATA[<p>未完成,隨時更新中&hellip;</p>
+<p>隨機森林的調參終於進步了&hellip;不知是否能在更好,有空要再研究一下!!</p>
+<p><a href="https://www.kaggle.com/blueleebad/house-prices-advanced-regression-techniques?scriptVersionId=58280894">https://www.kaggle.com/blueleebad/house-prices-advanced-regression-techniques?scriptVersionId=58280894</a></p>
 ]]></content>
             
             
