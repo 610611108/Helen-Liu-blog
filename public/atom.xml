@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Enjoy Life with Helen</title>
     <subtitle type="html">This blog is discussions about combining my habits with statistics analysis.</subtitle>
-    <updated>2021-05-06T18:20:45+08:00</updated>
+    <updated>2021-05-19T01:43:04+08:00</updated>
     <id>/</id>
     <link rel="alternate" type="text/html" href="/" />
     <link rel="self" type="application/atom+xml" href="/atom.xml" />
@@ -17,10 +17,68 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.69.0">Hugo</generator>
         <entry>
+            <title type="text">Power bi 自訂義軸與圖例排序</title>
+            <link rel="alternate" type="text/html" href="/post/power-bi-%E8%87%AA%E8%A8%82%E7%BE%A9%E6%8E%92%E5%BA%8F/" />
+            <id>/post/power-bi-%E8%87%AA%E8%A8%82%E7%BE%A9%E6%8E%92%E5%BA%8F/</id>
+            <updated>2021-05-19T01:40:56+08:00</updated>
+            <published>2021-05-19T00:00:00+00:00</published>
+            <author>
+                    <name>YA HAN LIU</name>
+                    <uri>/</uri>
+                    <email>610611108@gms.ndhu.edu.tw</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[原先內建的排序只會依據英文文字或數字大小排序,最多只能選擇遞增或遞減.實務上還是不太夠用.]]></summary>
+            
+                <content type="html"><![CDATA[<p>原先內建的排序只會依據英文文字或數字大小排序,最多只能選擇遞增或遞減.實務上還是不太夠用.</p>
+<p><strong>I. 自訂義排序檔.</strong>
+<img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI07.png?raw=true" alt="image">
+sTEP1.</p>
+<p>用excel做一個自訂義的排序檔.重點在自訂要排序的變數名要和原來表單的變數相同.</p>
+<p>sTEP2.</p>
+<p>導入excel檔.</p>
+<p><strong>II. 變更X軸排序.</strong></p>
+<p><img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI08.png?raw=true" alt="image">
+sTEP1.</p>
+<p>點選要改的圖.</p>
+<p>sTEP2.</p>
+<p>把排序檔中的變數拉到軸.</p>
+<p><strong>III. 如法炮製,變更圖例排序.</strong>
+<img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI09.png?raw=true" alt="image"></p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="/categories/statistic-software/" term="statistic software" label="statistic software" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="/tags/power-bi/" term="power bi" label="power bi" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">Power bi 安裝與實作</title>
             <link rel="alternate" type="text/html" href="/post/power-bi-%E5%AE%89%E8%A3%9D%E8%88%87%E5%AF%A6%E4%BD%9C/" />
             <id>/post/power-bi-%E5%AE%89%E8%A3%9D%E8%88%87%E5%AF%A6%E4%BD%9C/</id>
-            <updated>2021-05-06T18:20:33+08:00</updated>
+            <updated>2021-05-19T01:32:03+08:00</updated>
             <published>2021-05-06T00:00:00+00:00</published>
             <author>
                     <name>YA HAN LIU</name>
@@ -68,6 +126,14 @@
                         
                     
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="/tags/power-bi/" term="power bi" label="power bi" />
+                            
+                        
                     
                 
             

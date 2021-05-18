@@ -23,10 +23,65 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Thu, 06 May 2021 18:20:45 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 19 May 2021 01:43:04 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="/rss.xml" />
         
+        
+            <item>
+                <title>Power bi 自訂義軸與圖例排序</title>
+                <link>/post/power-bi-%E8%87%AA%E8%A8%82%E7%BE%A9%E6%8E%92%E5%BA%8F/</link>
+                <guid isPermaLink="true">/post/power-bi-%E8%87%AA%E8%A8%82%E7%BE%A9%E6%8E%92%E5%BA%8F/</guid>
+                <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+                
+                    <author>610611108@gms.ndhu.edu.tw (YA HAN LIU)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description><![CDATA[<p>原先內建的排序只會依據英文文字或數字大小排序,最多只能選擇遞增或遞減.實務上還是不太夠用.</p>
+<p><strong>I. 自訂義排序檔.</strong>
+<img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI07.png?raw=true" alt="image">
+sTEP1.</p>
+<p>用excel做一個自訂義的排序檔.重點在自訂要排序的變數名要和原來表單的變數相同.</p>
+<p>sTEP2.</p>
+<p>導入excel檔.</p>
+<p><strong>II. 變更X軸排序.</strong></p>
+<p><img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI08.png?raw=true" alt="image">
+sTEP1.</p>
+<p>點選要改的圖.</p>
+<p>sTEP2.</p>
+<p>把排序檔中的變數拉到軸.</p>
+<p><strong>III. 如法炮製,變更圖例排序.</strong>
+<img src="https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20pictures/POWERBI09.png?raw=true" alt="image"></p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="/categories/statistic-software/">statistic software</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="/tags/power-bi/">power bi</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Power bi 安裝與實作</title>
@@ -77,6 +132,14 @@
                             
                         
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="/tags/power-bi/">power bi</category>
+                                
+                            
                         
                     
                 
