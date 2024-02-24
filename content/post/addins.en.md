@@ -5,7 +5,7 @@ date: '2024-02-18'
 categories:
   - R
 tags:
-  - blogdown
+  - ['blogdown']
 slug: addins
 ---
 
@@ -31,7 +31,7 @@ slug: addins
 把所有[TODO]黑色實心點點都照做.\
 把Hugo(blogdown::install_hugo())和Git(網上直接下載.exe安裝)都更新.
 
-記得寫完文章要blogdown:::serve_site().\
+最後記得寫完文章要blogdown::build_site(local=TRUE).\
 寫一下,怕我之後又忘了!
 
 爬文的時候發現有講如何用R創建網站的書,\
