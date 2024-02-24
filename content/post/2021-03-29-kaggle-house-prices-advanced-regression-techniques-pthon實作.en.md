@@ -1,10 +1,10 @@
 ---
-title: kaggle,house-prices-advanced-regression-techniques, Pthon實作
+title: kaggle,house-prices-advanced-regression-techniques, Python實作
 author: ''
 date: '2021-03-29'
-slug: kaggle-house-prices-advanced-regression-techniques-pthon實作
-categories: [pthon]
-tags: [pthon]
+slug: kaggle-house-prices-advanced-regression-techniques-python實作
+categories: [python]
+tags: [python]
 ---
 未完成,隨時更新中...
 
