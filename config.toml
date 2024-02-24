@@ -11,6 +11,8 @@ copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0
 # Name of theme
 theme = "meme"
 
+"ignoreFiles" = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+
 # `hugo new` automatically opened text editor
 newContentEditor = ""
 
@@ -1290,3 +1292,5 @@ uglyURLs = false
     fofVideoMp4 = ""
     # Note: you can leave these two
     #       options empty("")
+
+
