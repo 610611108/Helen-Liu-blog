@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Enjoy Life with Helen</title>
-    <link>https://enjoy-life-with-helen.netlify.app/tags/python/</link>
+    <link>https://enjoy-life-with-helen.netlify.app/categories/python/</link>
     <description>Recent content in Python on Enjoy Life with Helen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,7 +10,7 @@
     <webMaster>610611108@gms.ndhu.edu.tw (YA HAN LIU)</webMaster>
     <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
     <lastBuildDate>Sun, 25 Feb 2024 05:01:29 +0800</lastBuildDate>
-    <atom:link href="https://enjoy-life-with-helen.netlify.app/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://enjoy-life-with-helen.netlify.app/categories/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>kaggle,house-prices-advanced-regression-techniques, Python實作</title>
       <link>https://enjoy-life-with-helen.netlify.app/post/kaggle-house-prices-advanced-regression-techniques-python%E5%AF%A6%E4%BD%9C/</link>
