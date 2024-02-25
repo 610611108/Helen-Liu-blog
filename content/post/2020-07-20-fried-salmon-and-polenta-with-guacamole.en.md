@@ -6,8 +6,10 @@ slug: fried-salmon-and-polenta-with-guacamole
 categories: [Master's Thesis]
 tags: [Master's Thesis、Recipes]
 ---
-![image](https://www.sanpellegrinofruitbeverages.com/intl/sites/g/files/xknfdk381/files/Fried%2520Polenta_11.jpg)
-玉米是全世界總產量最高的糧食，不僅可食用，也可做為工業原料使用，用途非常廣泛又環保。玉米在每個國家習慣的烹飪方法都不同，在我們國家多是水煮居多。Polenta是玉米糊的意思，源自義大利的一道傳統美食。義大利人喜愛將玉米研磨製成玉米碎粉(並非像白白細細的那種玉米澱粉，這是與中國的涼粉不同之處)後，加水與鹽巴混和後加熱，使澱粉糊化後作為主食食用。當玉米糊冷卻後會變成塊狀，也就是所謂的玉米糕了。原理就像中國的涼粉一樣，只是中國使用的澱粉來源以綠豆、碗豆、地瓜、馬鈴薯為主。玉米糕製成後，再以油脂半煎半炸方式烹調後食用。
+玉米是全世界總產量最高的糧食，不僅可食用，也可做為工業原料使用，用途非常廣泛又環保。
+![image](https://images.chinatimes.com/newsphoto/2023-08-13/1024/20230813003470.jpg)
+(圖/shutterstock)\
+&emsp;&emsp;玉米在每個國家習慣的烹飪方法都不同，在我們國家多是水煮居多。Polenta是玉米糊的意思，源自義大利的一道傳統美食。義大利人喜愛將玉米研磨製成玉米碎粉(並非像白白細細的那種玉米澱粉，這是與中國的涼粉不同之處)後，加水與鹽巴混和後加熱，使澱粉糊化後作為主食食用。當玉米糊冷卻後會變成塊狀，也就是所謂的玉米糕了。原理就像中國的涼粉一樣，只是中國使用的澱粉來源以綠豆、碗豆、地瓜、馬鈴薯為主。玉米糕製成後，再以油脂半煎半炸方式烹調後食用。
 
 ![image](https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20mds%20pictures/breakfast_mds.png?raw=true)
 ![image](https://github.com/610611108/Helen-Liu-blog/blob/master/blogger%20mds%20pictures/breakfast_mds_zoom_in.png?raw=true)
