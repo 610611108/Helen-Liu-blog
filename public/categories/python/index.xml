@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Enjoy Life with Helen</title>
-    <link>http://localhost:4321/categories/python/</link>
+    <link>http://localhost:3164/categories/python/</link>
     <description>Recent content in Python on Enjoy Life with Helen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,26 +10,26 @@
     <webMaster>610611108@gms.ndhu.edu.tw (YA HAN LIU)</webMaster>
     <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
     <lastBuildDate>Sun, 25 Feb 2024 05:01:29 +0800</lastBuildDate>
-    <atom:link href="http://localhost:4321/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:3164/categories/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>kaggle,house-prices-advanced-regression-techniques, Python實作</title>
-      <link>http://localhost:4321/post/kaggle-house-prices-advanced-regression-techniques-python%E5%AF%A6%E4%BD%9C/</link>
+      <link>http://localhost:3164/post/kaggle-house-prices-advanced-regression-techniques-python%E5%AF%A6%E4%BD%9C/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate><author>610611108@gms.ndhu.edu.tw (YA HAN LIU)</author>
-      <guid>http://localhost:4321/post/kaggle-house-prices-advanced-regression-techniques-python%E5%AF%A6%E4%BD%9C/</guid>
+      <guid>http://localhost:3164/post/kaggle-house-prices-advanced-regression-techniques-python%E5%AF%A6%E4%BD%9C/</guid>
       <description>未完成,隨時更新中&amp;hellip;</description>
     </item>
     <item>
       <title>START with Python</title>
-      <link>http://localhost:4321/post/start-with-python/</link>
+      <link>http://localhost:3164/post/start-with-python/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate><author>610611108@gms.ndhu.edu.tw (YA HAN LIU)</author>
-      <guid>http://localhost:4321/post/start-with-python/</guid>
+      <guid>http://localhost:3164/post/start-with-python/</guid>
       <description>起初會想學Python是因為了參加kaggle舉辦的一個比賽，其中大多參賽者都是使用Python。當我把data下載後，想以R打開train.csv，系統卻跳出資料量太大而無法讀取的通知。無奈之下開始了Python學習之路，雖說用了Python才發現一樣問題也是存在，需另闢新徑解決問題，哈哈。</description>
     </item>
     <item>
       <title>機器學習與圖像分析 in Python</title>
-      <link>http://localhost:4321/post/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E8%88%87%E5%9C%96%E5%83%8F%E5%88%86%E6%9E%90-in-python/</link>
+      <link>http://localhost:3164/post/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E8%88%87%E5%9C%96%E5%83%8F%E5%88%86%E6%9E%90-in-python/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate><author>610611108@gms.ndhu.edu.tw (YA HAN LIU)</author>
-      <guid>http://localhost:4321/post/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E8%88%87%E5%9C%96%E5%83%8F%E5%88%86%E6%9E%90-in-python/</guid>
+      <guid>http://localhost:3164/post/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E8%88%87%E5%9C%96%E5%83%8F%E5%88%86%E6%9E%90-in-python/</guid>
       <description>kaggle裡大多比賽都會牽扯到圖像或時間序列。</description>
     </item>
   </channel>
