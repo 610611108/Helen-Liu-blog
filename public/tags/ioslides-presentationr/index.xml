@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ioslides Presentation、R on Enjoy Life with Helen</title>
-    <link>http://localhost:3470/tags/ioslides-presentationr/</link>
+    <link>http://localhost:4321/tags/ioslides-presentationr/</link>
     <description>Recent content in Ioslides Presentation、R on Enjoy Life with Helen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,12 +10,12 @@
     <webMaster>610611108@gms.ndhu.edu.tw (YA HAN LIU)</webMaster>
     <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
     <lastBuildDate>Sat, 18 Jul 2020 14:10:46 +0800</lastBuildDate>
-    <atom:link href="http://localhost:3470/tags/ioslides-presentationr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/tags/ioslides-presentationr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presentation in R</title>
-      <link>http://localhost:3470/post/presentation-in-r/</link>
+      <link>http://localhost:4321/post/presentation-in-r/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate><author>610611108@gms.ndhu.edu.tw (YA HAN LIU)</author>
-      <guid>http://localhost:3470/post/presentation-in-r/</guid>
+      <guid>http://localhost:4321/post/presentation-in-r/</guid>
       <description>第一次用R寫PPT有點茫然，網上講解的文章也不多。用久了發現ioslides presentation其實還滿好用的，做起來的簡報也挺簡潔的。 其中有些的code寫法，有一些和網頁編碼相通。</description>
     </item>
   </channel>
