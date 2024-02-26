@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recipes on Enjoy Life with Helen</title>
-    <link>http://localhost:3164/categories/recipes/</link>
+    <link>http://localhost:4321/categories/recipes/</link>
     <description>Recent content in Recipes on Enjoy Life with Helen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,19 +10,19 @@
     <webMaster>610611108@gms.ndhu.edu.tw (YA HAN LIU)</webMaster>
     <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
     <lastBuildDate>Thu, 30 Apr 2020 02:30:12 +0800</lastBuildDate>
-    <atom:link href="http://localhost:3164/categories/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/categories/recipes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>雪菜炒黑豆</title>
-      <link>http://localhost:3164/post/preserved-potherb-mustard-with-black-beans/</link>
+      <link>http://localhost:4321/post/preserved-potherb-mustard-with-black-beans/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate><author>610611108@gms.ndhu.edu.tw (YA HAN LIU)</author>
-      <guid>http://localhost:3164/post/preserved-potherb-mustard-with-black-beans/</guid>
+      <guid>http://localhost:4321/post/preserved-potherb-mustard-with-black-beans/</guid>
       <description></description>
     </item>
     <item>
       <title>鮭魚頭味噌湯</title>
-      <link>http://localhost:3164/post/salmon-head-miso-soup/</link>
+      <link>http://localhost:4321/post/salmon-head-miso-soup/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate><author>610611108@gms.ndhu.edu.tw (YA HAN LIU)</author>
-      <guid>http://localhost:3164/post/salmon-head-miso-soup/</guid>
+      <guid>http://localhost:4321/post/salmon-head-miso-soup/</guid>
       <description></description>
     </item>
   </channel>

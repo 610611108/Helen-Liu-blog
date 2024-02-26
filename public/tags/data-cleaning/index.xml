@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Cleaning on Enjoy Life with Helen</title>
-    <link>http://localhost:3164/tags/data-cleaning/</link>
+    <link>http://localhost:4321/tags/data-cleaning/</link>
     <description>Recent content in Data Cleaning on Enjoy Life with Helen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>610611108@gms.ndhu.edu.tw (YA HAN LIU)</managingEditor>
     <webMaster>610611108@gms.ndhu.edu.tw (YA HAN LIU)</webMaster>
     <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-    <lastBuildDate>Mon, 26 Feb 2024 03:02:37 +0800</lastBuildDate>
-    <atom:link href="http://localhost:3164/tags/data-cleaning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Feb 2024 03:46:56 +0800</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/data-cleaning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>資料清理要做的幾件事</title>
-      <link>http://localhost:3164/post/2024-02-21-data_cleaning_in_r/</link>
+      <link>http://localhost:4321/post/2024-02-21-data_cleaning_in_r/</link>
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate><author>610611108@gms.ndhu.edu.tw (YA HAN LIU)</author>
-      <guid>http://localhost:3164/post/2024-02-21-data_cleaning_in_r/</guid>
-      <description>Data Cleaning資料清理是每次分析前必做的事,</description>
+      <guid>http://localhost:4321/post/2024-02-21-data_cleaning_in_r/</guid>
+      <description>Data Cleaning</description>
     </item>
   </channel>
 </rss>
